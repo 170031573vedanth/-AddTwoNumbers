@@ -1,18 +1,7 @@
-import java.util.Scanner;
-public class AddTwoNumbers {
-
-    public static void main(String[] args) {
-        
-        int num1, num2, sum;
-        Scanner sc = new Scanner(System.in);
-        System.out.println("Enter First Number: ");
-        num1 = sc.nextInt();
-        
-        System.out.println("Enter Second Number: ");
-        num2 = sc.nextInt();
-        
-        sc.close();
-        sum = num1 + num2;
-        System.out.println("Sum of these numbers: "+sum);
-    }
+Class AddTwoNumbers
+{
+public static void main(String[] args)
+{
+System.out.println(“Addition of two numbers 10 + 20 is ” + (10 + 20));
+}
 }
