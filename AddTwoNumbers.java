@@ -2,6 +2,6 @@ Class AddTwoNumbers
 {
 public static void main(String[] args)
 {
-System.out.println(“Addition of two numbers 10 + 20 is ” + (10 + 20));
+System.out.println(“Addition of two numbers 10 + 20 is ”);
 }
 }
